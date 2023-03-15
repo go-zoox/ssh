@@ -1,8 +1,8 @@
 # gliderlabs/ssh
 
-[![GoDoc](https://godoc.org/github.com/gliderlabs/ssh?status.svg)](https://godoc.org/github.com/gliderlabs/ssh) 
+[![GoDoc](https://godoc.org/github.com/go-zoox/ssh?status.svg)](https://godoc.org/github.com/go-zoox/ssh) 
 [![CircleCI](https://img.shields.io/circleci/project/github/gliderlabs/ssh.svg)](https://circleci.com/gh/gliderlabs/ssh)
-[![Go Report Card](https://goreportcard.com/badge/github.com/gliderlabs/ssh)](https://goreportcard.com/report/github.com/gliderlabs/ssh) 
+[![Go Report Card](https://goreportcard.com/badge/github.com/go-zoox/ssh)](https://goreportcard.com/report/github.com/go-zoox/ssh) 
 [![OpenCollective](https://opencollective.com/ssh/sponsors/badge.svg)](#sponsors)
 [![Slack](http://slack.gliderlabs.com/badge.svg)](http://slack.gliderlabs.com) 
 [![Email Updates](https://img.shields.io/badge/updates-subscribe-yellow.svg)](https://app.convertkit.com/landing_pages/243312)
@@ -18,7 +18,7 @@ building SSH servers. The goal of the API was to make it as simple as using
  package main
 
  import (
-     "github.com/gliderlabs/ssh"
+     "github.com/go-zoox/ssh"
      "io"
      "log"
  )
@@ -40,7 +40,7 @@ A bunch of great examples are in the `_examples` directory.
 
 ## Usage
 
-[See GoDoc reference.](https://godoc.org/github.com/gliderlabs/ssh)
+[See GoDoc reference.](https://godoc.org/github.com/go-zoox/ssh)
 
 ## Contributing
 
